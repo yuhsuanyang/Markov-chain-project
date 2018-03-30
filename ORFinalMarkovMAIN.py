@@ -1,35 +1,3 @@
-''' 
-    2017 Autumn Semester - Operation Research - Final Report 
-    Topic: 
-        
-        Using Markov Probability Matrix to Evaluate Air Quality in Northern Taiwan
-    
-    Member: 
-        曾令佳 能源國際學士學位學程學士班 F04026052
-        楊于萱 能源國際學士學位學程學士班 F04036196
-        林尚緯 能源國際學士學位學程學士班 F04036015
-
-
-
-'''
-
-'''======= Operation Manuel 操作手冊 ======= 
- 
-    Step1. run function file 'converMarkov.m'
-           run function file 'p m10markfunction.m'
-           run function file 'pm25markfunction.m'
-    
-    Step2. run this file 'ORFinalMarkovMAIN.m'
-    
-    Step3. Wait for the results! :)  
-    
-    Step4. run the 'resultplot.py' file,
-           we will export two graphs to your current folder
-           for you to see the Transition Matrix results comparison! :)  
-
-
-'''
-
 
 #======= Import Libraries =======
 import pandas as pd
