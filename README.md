@@ -1,11 +1,11 @@
 '''======= Operation Manuel 操作手冊 ======= 
     Data:pm.xlsx
 
-    Step1. run function file 'converMarkov.m'
-           run function file 'p m10markfunction.m'
-           run function file 'pm25markfunction.m'
+    Step1. run function file 'converMarkov.py'
+           run function file 'pm10markfunction.py'
+           run function file 'pm25markfunction.py'
     
-    Step2. run this file 'ORFinalMarkovMAIN.m'
+    Step2. run this file 'ORFinalMarkovMAIN.py'
     
     Step3. Wait for the results! :)  
     
